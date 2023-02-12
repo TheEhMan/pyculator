@@ -1,4 +1,5 @@
 print("Ehsan is cool")
+print("He actually is")
 #this is not a comment
 
 def add(a,b):
